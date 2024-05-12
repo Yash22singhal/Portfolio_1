@@ -44,7 +44,7 @@
     position: relative;
 }
 #home .home-cols .home-img-col img{
-    background-color: rgba(24, 24, 24, 0.9);
+    background-color: rgba(24, 24, 24);
     border-radius: 15px;
     filter: grayscale(100%);
     transition: 1s;
