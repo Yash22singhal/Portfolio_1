@@ -61,8 +61,17 @@
     font-size: 53px;
     font-weight: 700;
 }
-#home .home-cols .home-info-col h1 sapn{
+#home .home-cols .home-info-col h1 span{
     color: var(--themeColor);
+}
+#home .home-cols .home-info-col h2{
+    color: white;
+    font-family: var(--hFont);
+    font-size: 40px;
+    font-weight: 600;
+}
+#home .home-cols .home-info-col h2 .auto-text{
+    border-bottom: solid 4px var(--themeColor);
 }
 #home .home-cols .home-info-col p{
     color: var(--Color);
